@@ -5,7 +5,7 @@
 # 👋 About Me:
 🔭I'm a student of Computer Science and Information Technology at Acropolis Institute of Technology and Research in Indore.<br>
 
-- 🌱Currently in my final year, I have a strong academic record with an 8.0 CGPA.
+- 🌱Currently in my final year, I have a strong academic record with an 8.06 CGPA.
 
 - 🔭 Currently working on [Culture Living](https://github.com/kuldeeppanwar123/Culture-Living-MERN-Project)
 
