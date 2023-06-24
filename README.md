@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kuldeep Panwar</h1>
+<h1 align="center">Hi there👋, I'm Kuldeep Panwar</h1>
 <h3 align="center">C++ Technophile || MERN || DSA || Btech 2024</h3>
 <img align="right" alt = "coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
